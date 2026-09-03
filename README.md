@@ -16,6 +16,10 @@ I did so by doing the following:
 
 ## Findings: 
 
+<img width="1262" height="711" alt="image" src="https://github.com/user-attachments/assets/145bb4b0-e345-457b-9cea-fa9a6a7c431f" />
+<img width="1265" height="715" alt="image" src="https://github.com/user-attachments/assets/93b74be2-2575-4463-baa1-09c39e0833c9" />
+
+
 I found that there is subtle difference in quality of performance between both eras. The 90s/2000s era median from the
 25th-75th percentile was 98-122 minutes every goal or assist. The definitive median would then be 105. Meanwhile, the
 median from the 25th to 75th percentile of the 2010s/20s cohort was 78-113 minutes every goal or assist. This would make
