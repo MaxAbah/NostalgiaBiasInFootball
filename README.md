@@ -9,7 +9,7 @@ shape and impacts our memory when looking back at athletes from years past to on
 I did so by doing the following:
 
 * Selected 15 players from 2 eras to compare directly against with their best 5 season stretch in the t5 leagues
-* One from the 90s/2000s, the other 2010s/20s
+* One from the late 90s/2000s, the other 2010s/20s
 * Calculated their 'x amount of minutes per G/A' from their Transfermarkt stats
 * Capture the median(25th-75th percentile) in a gray band to best depict the avg performance level for the era using numpy
 * Highlighted the most unique names from the findings of each era to describe why their data reads off how it does in context
